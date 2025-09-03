@@ -15,8 +15,8 @@ A Python tool for extracting and analyzing metadata from ADNI (Alzheimer's Disea
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd adni_metainfo
+git clone https://github.com/Core-BMC/kdca_adni_metainfo.git
+cd kdca_adni_metainfo
 ```
 
 1. Install dependencies:
@@ -84,7 +84,7 @@ The extracted metadata includes:
 
 ## Requirements
 
-- Python 3.7+
+- Python 3.8+
 - pandas
 - openpyxl
 - Standard library modules (xml, pathlib, argparse, etc.)
@@ -101,6 +101,6 @@ This project is intended for research and educational purposes related to ADNI d
 
 ## Contact
 
-- **Authors**: Heo H & Shim WH
-- **Email**: heohwon@gmail.com
+- **Authors**: Heo H & Shim WH (BMC CORE, AMC Seoul, KR)
+- **Email**: <heohwon@gmail.com>
 - **Repository**: [https://github.com/Core-BMC/kdca_adni_metainfo](https://github.com/Core-BMC/kdca_adni_metainfo)
