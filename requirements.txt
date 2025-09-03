@@ -1,0 +1,14 @@
+# ADNI Metadata Extractor Dependencies
+# Core data processing libraries
+pandas
+openpyxl
+
+# Optional: For enhanced data analysis and visualization
+numpy
+matplotlib
+seaborn
+
+# Development and testing (optional)
+pytest
+flake8
+black
